@@ -32,52 +32,46 @@
 ## Work Experience
 **Sr, Software Developer/Aws @ JPMC Chase (Nov 2025-Present)**
 **Money transfer, Premium Deposits**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Spring Boot microservices, React 17, Redux/Saga, Formik, DB2, Kubernetes, Feign, Circuit Breaker, REST APIs, Pact contract testing, Jenkins/Jules/Spinnaker CI/CD, Gaia cloud, SonarQube.
 
 **Full Stack Developer/Aws @ JPMC Chase (Aug 2024-Oct 2025)**
  **SENTRY (Identity Provider)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Golang microservices, Spring Boot IAM/SSO, OAuth2/OIDC, Forgerock AM/IDM, Angular Signals, Next.js, Zustand, AG‑Grid, AWS ECS/EKS/S3/Lambda/KMS, Terraform, Python/Flask automation, Datadog/Splunk, Kubernetes deployments.
 
 **Full Stack Developer  @ Visa (Feb 2023-jully 2024)**
 **Visa Mobile Pay (VMP)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Spring Boot 3 microservices, Angular UI, OAuth2 Security, Quartz Scheduler, JMS, WebFlux, Feign, Swagger, MySQL, OpenShift/Kubernetes, Docker, Splunk monitoring, PL/SQL support
 
 **Full Stack Developer  @ Common wealth of Kentucky (DOR) (Sep 2019 - Feb 2023)**
 **Motor Fuel Taxation (MFU)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+- Spring Boot 4 microservices, Angular 9, OAuth2, Kafka, ActiveMQ JMS, Quartz, S3 integrations, PDF/Jasper reporting, Azure AKS, Kubernetes CI/CD, Dynatrace monitoring, Oracle 11g.
+  
 **Full Stack Developer  @ Macys (Sep 2019 - Feb 2023)**
 **Logistics, WMS**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+- Spring microservices, Angular 7/8, Material UI, Kafka, OAuth2, Eureka/Hystrix, Docker Compose, Jenkins CI/CD, AWS EC2/S3/RDS, Oracle DB, Splunk dashboards.
+  
 **Full Stack Developer  @ Verizon Wireless (Sep 2019 - Feb 2023)**
 **FUZE**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Spring Cloud (Eureka, Zuul, Ribbon), Angular 4, Bootstrap, AWS EC2/S3/RDS/Lambda, Docker, Jenkins CI/CD, Spring Batch/Quartz, MySQL, REST APIs, application support.
 
 **Full Stack Developer  @ General Dynamics Information Technology (GDIT) (Sep 2019 - Feb 2023)**
 **General Practice Reporting Systems**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Spring Boot microservices, Angular, MongoDB, RabbitMQ, Camel, AWS EC2/S3/RDS, Cloud Foundry, Vagrant, Selenium/Cucumber automation, SOAP UI, JMeter, Git/Maven.
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****
 
 **Full Stack Developer  @ Kohl’s (Sep 2019 - Feb 2023)**
 **Notifications**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Spring MVC/JPA/Hibernate, JSP/Tiles UI, Cassandra, SOAP/REST APIs (CXF), caching, DI/AOP, JUnit, Maven, Splunk monitoring, WebLogic deployments.
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****
 
 **Full Stack Developer  @ Southern California Gas Company (SoCalGas) (Jan 2014 - Sep 2014)**
 **Gas Trading**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- SOA architecture, Spring/Hibernate, JSP/JavaScript/AJAX, SOAP web services, Oracle DB, EJB3, XML/XSD, JUnit, JBoss deployments.
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****
 
 **Full Stack Developer  @ PepsiCo Inc (APril 2012 - Dec 2013)**
 **Reporting for Retail Products**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- J2EE (EJB, Servlets, JSP), Spring, JQuery UI, SQL Server, WebSphere, ANT builds, design patterns, JUnit, Subversion version control
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****  
 
 ## Certifications
