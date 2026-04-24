@@ -1,5 +1,3 @@
-![EEG Band Discovery](/assets/img/rama-1.jpg)
-
 # Sr, Software Developer/Aws
 ### Professional Summary
 Full‑stack Java engineer with 12+ years building enterprise‑grade microservices, cloud‑native APIs, and secure IAM/SSO platforms using Java/Spring Boot, Golang, Python/Flask, and modern UI frameworks (React, Next.js, Angular). Strong expertise in distributed systems, Spring Cloud (Eureka, Ribbon, Hystrix, Feign), OAuth2/OIDC, Forgerock AM/IDM, Kafka, and automation with Selenium/Cucumber/JUnit. Skilled in AWS (EKS, ECS, Lambda, IAM, S3, RDS), Kubernetes, Docker, Terraform, CI/CD pipelines, and end‑to‑end application development across backend, frontend, cloud, and identity engineering domains.
