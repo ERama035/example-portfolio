@@ -30,49 +30,65 @@
 - INFORMATION SCIENCE AND SECURITIES | University of Cumberland’s –(2016-2018).
 
 ## Work Experience
-**Sr, Software Developer/Aws @ JPMC Chase (Nov 2025-Present)**
+**Sr, Software Developer/Aws**
+**JPMC Chase (Nov 2025-Present)**
 **Money transfer, Premium Deposits**
 - Spring Boot microservices, React 17, Redux/Saga, Formik, DB2, Kubernetes, Feign, Circuit Breaker, REST APIs, Pact contract testing, Jenkins/Jules/Spinnaker CI/CD, Gaia cloud, SonarQube.
 
-**Full Stack Developer/Aws @ JPMC Chase (Aug 2024-Oct 2025)**
+
+**Full Stack Developer/Aws** 
+**JPMC Chase (Aug 2024-Oct 2025)**
  **SENTRY (Identity Provider)**
 - Golang microservices, Spring Boot IAM/SSO, OAuth2/OIDC, Forgerock AM/IDM, Angular Signals, Next.js, Zustand, AG‑Grid, AWS ECS/EKS/S3/Lambda/KMS, Terraform, Python/Flask automation, Datadog/Splunk, Kubernetes deployments.
 
-**Full Stack Developer  @ Visa (Feb 2023-jully 2024)**
+
+**Full Stack Developer** 
+**Visa (Feb 2023-jully 2024)**
 **Visa Mobile Pay (VMP)**
 - Spring Boot 3 microservices, Angular UI, OAuth2 Security, Quartz Scheduler, JMS, WebFlux, Feign, Swagger, MySQL, OpenShift/Kubernetes, Docker, Splunk monitoring, PL/SQL support
 
-**Full Stack Developer  @ Common wealth of Kentucky (DOR) (Sep 2019 - Feb 2023)**
+
+**Full Stack Developer** 
+**Common wealth of Kentucky (DOR) (Sep 2019 - Feb 2023)**
 **Motor Fuel Taxation (MFU)**
 - Spring Boot 4 microservices, Angular 9, OAuth2, Kafka, ActiveMQ JMS, Quartz, S3 integrations, PDF/Jasper reporting, Azure AKS, Kubernetes CI/CD, Dynatrace monitoring, Oracle 11g.
+
   
-**Full Stack Developer  @ Macys (Sep 2019 - Feb 2023)**
+**Full Stack Developer** 
+**Macys (Sep 2019 - Feb 2023)**
 **Logistics, WMS**
 - Spring microservices, Angular 7/8, Material UI, Kafka, OAuth2, Eureka/Hystrix, Docker Compose, Jenkins CI/CD, AWS EC2/S3/RDS, Oracle DB, Splunk dashboards.
+
   
-**Full Stack Developer  @ Verizon Wireless (Sep 2019 - Feb 2023)**
+**Full Stack Developer** 
+**Verizon Wireless (Sep 2019 - Feb 2023)**
 **FUZE**
 - Spring Cloud (Eureka, Zuul, Ribbon), Angular 4, Bootstrap, AWS EC2/S3/RDS/Lambda, Docker, Jenkins CI/CD, Spring Batch/Quartz, MySQL, REST APIs, application support.
 
-**Full Stack Developer  @ General Dynamics Information Technology (GDIT) (Sep 2019 - Feb 2023)**
+
+**Full Stack Developer** 
+**General Dynamics Information Technology (GDIT) (Sep 2019 - Feb 2023)**
 **General Practice Reporting Systems**
 - Spring Boot microservices, Angular, MongoDB, RabbitMQ, Camel, AWS EC2/S3/RDS, Cloud Foundry, Vagrant, Selenium/Cucumber automation, SOAP UI, JMeter, Git/Maven.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****
 
-**Full Stack Developer  @ Kohl’s (Sep 2019 - Feb 2023)**
+
+**Full Stack Developer** 
+**Kohl’s (Sep 2019 - Feb 2023)**
 **Notifications**
 - Spring MVC/JPA/Hibernate, JSP/Tiles UI, Cassandra, SOAP/REST APIs (CXF), caching, DI/AOP, JUnit, Maven, Splunk monitoring, WebLogic deployments.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****
 
-**Full Stack Developer  @ Southern California Gas Company (SoCalGas) (Jan 2014 - Sep 2014)**
+
+**Full Stack Developer** 
+**Southern California Gas Company (SoCalGas) (Jan 2014 - Sep 2014)**
 **Gas Trading**
 - SOA architecture, Spring/Hibernate, JSP/JavaScript/AJAX, SOAP web services, Oracle DB, EJB3, XML/XSD, JUnit, JBoss deployments.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****
 
-**Full Stack Developer  @ PepsiCo Inc (APril 2012 - Dec 2013)**
+
+**Full Stack Developer** 
+**PepsiCo Inc (APril 2012 - Dec 2013)**
 **Reporting for Retail Products**
-- J2EE (EJB, Servlets, JSP), Spring, JQuery UI, SQL Server, WebSphere, ANT builds, design patterns, JUnit, Subversion version control
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes****  
+- J2EE (EJB, Servlets, JSP), Spring, JQuery UI, SQL Server, WebSphere, ANT builds, design patterns, JUnit, Subversion version control 
+
 
 ## Certifications
 - AWS Cloud Practictioner.
