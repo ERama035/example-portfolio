@@ -30,7 +30,7 @@
 - INFORMATION SCIENCE AND SECURITIES | University of Cumberland’s –(2016-2018).
 
 ## Work Experience
-### JPMC Chase (Nov 2025-Present)                                           **Project - Money transfer, Premium Deposits**
+### JPMC Chase (Nov 2025-Present)                                           ### Project - Money transfer, Premium Deposits
 #### Sr, Software Developer/Aws
 - Spring Boot microservices, React 17, Redux/Saga, Formik, DB2, Kubernetes, Feign, Circuit Breaker, REST APIs, Pact contract testing, Jenkins/Jules/Spinnaker CI/CD, Gaia cloud, SonarQube.
 
