@@ -1,6 +1,6 @@
-# Data Scientist
+# Sr, Java Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Microservices, Java, Spring, Python, AWS
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
