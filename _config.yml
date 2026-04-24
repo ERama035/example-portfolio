@@ -3,4 +3,5 @@ logo: /assets/img/rama-1.jpg
 #description: text below image
 show_downloads: false
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
